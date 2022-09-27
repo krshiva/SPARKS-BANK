@@ -40,7 +40,7 @@
 
     <footer>
         <div class="footerSection">
-            Copyright &copy; 2021 | Made by Yadhu Krishna P P
+            Copyright &copy; 2021 | Made by K R Shiva
         </div>
     </footer>
 
